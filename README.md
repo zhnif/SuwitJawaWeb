@@ -2,7 +2,7 @@
 
 Game **Suwit Jawa** berbasis web — versi digital dari permainan tradisional Jawa (Gajah, Manusia, Semut). Lawan komputer dan lihat siapa yang menang!
 
-🔗 **[▶ Buka & Mainkan Sekarang](s://zhnif.github.io/SuwitJawaWeb/)**
+🔗 **[▶ Buka & Mainkan Sekarang](//zhnif.github.io/SuwitJawaWeb/)**
 
 ---
 
